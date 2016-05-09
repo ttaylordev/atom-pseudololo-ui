@@ -1,0 +1,11 @@
+{
+  "name": "atom-dark-ui",
+  "theme": "ui",
+  "version": "0.0.1",
+  "description": "A dark UI theme for Atom",
+  "license": "Fair Source License, version 0.9(modified)",
+  "repository": "https://github.com/ttaylordev/atom-pseudololo-ui",
+  "engines": {
+    "atom": ">1.4.9"
+  }
+}
